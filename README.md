@@ -10,7 +10,7 @@ Inat Box, film, dizi, canlı TV ve spor yayınlarına sınırsız erişim sağla
 
 ## Özellikler  
 
-- Canlı TV Kanalları  
+- Canlı TV Kanalları 
 - Spor TV 
 - Reklam Yok
 - Ücretsiz  
